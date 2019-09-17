@@ -1,0 +1,18 @@
+[package]
+name = "wut_jwc"
+version = "0.1.0"
+authors = ["hr567 <hr567@hr567.me>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.20"
+
+rand = "0.7.0"
+
+digest = "0.8.1"
+md-5 = "0.8.0"
+sha-1 = "0.8.1"
+
+scraper = "0.10.1"
+
+lazy_static = "1.4.0"
